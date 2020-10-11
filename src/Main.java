@@ -1,7 +1,7 @@
 
+
 // Part 1 
-// the value of k is B.80 
-// this is because the i < 5 is false, thus stopping the code from continuing any futher and never actually reaching k = k-12
+// E. 0 the loop would continue adding 1 each time until it reaches 0 because i < 5 is never false.
 
 
 public class Main {
